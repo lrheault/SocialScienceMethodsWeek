@@ -38,6 +38,7 @@ pip install jupyter
 
 <p>Launch Jypyter by clicking the shortcut or by entering the following command in a terminal:
 </p>
+
 ```bash
 jupyter notebook
 ```
