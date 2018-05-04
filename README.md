@@ -36,7 +36,7 @@ pip install jupyter
 
 <p>Download the file WorkshopExamples.ipynb on your laptop.</p>
 
-<p>Launch Jypyter by clicking the shortcut or by entering the following command in a terminal:
+<p>Launch Jupyter by clicking the shortcut or by entering the following command in a terminal:
 </p>
 
 ```bash
